@@ -1,0 +1,30 @@
+*.iml
+.gradle
+/local.properties
+local.properties
+
+# Android Studio / IntelliJ IDEA
+.idea/
+.kotlin/
+
+# Built binaries & release packages
+*.apk
+*.aab
+*.aar
+release/
+app/release/
+/captures
+
+# Build folders
+/build
+app/build/
+.externalNativeBuild
+.cxx
+
+# Signing keys
+*.jks
+*.keystore
+
+# OS & Environment
+.DS_Store
+*.env*
